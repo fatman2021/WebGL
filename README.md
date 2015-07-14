@@ -1,8 +1,4 @@
-The Official Khronos WebGL Repository
-
-This is the official home of the Khronos
-WebGL repository for the WebGL specifications
-and the WebGL conformance test suite.
+WebGL Repository
 
 Before adding a new test or editing an existing test
 [please read these guidelines](sdk/tests/test-guidelines.md).
